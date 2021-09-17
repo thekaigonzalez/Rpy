@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+
+import ensuredoc as edoc
+
+print(edoc.is_docker())
